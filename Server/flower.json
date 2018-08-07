@@ -1,0 +1,22 @@
+[{
+      "Institution":"Technion",
+      "Degree":"BSc.",
+      "StartDate": "February 4, 2016",
+      "EndDate": "February 29, 2016",
+      "Grade":85
+    },
+    {
+      "Institution":"Columbia",
+      "Degree":"BSc.",
+      "StartDate": "February 4, 2012",
+      "EndDate": "February 4, 2016",
+      "Grade":85
+    },
+    {
+      "Institution":"HofHacarmel",
+      "Degree":"BSc.",
+      "StartDate": "February 4, 2016",
+      "EndDate": "February 4, 2016",
+      "Grade":85
+    }
+    ]
